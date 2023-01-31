@@ -51,7 +51,7 @@ La demanda de habilidades en Big Data está aumentando en todo el mundo, especia
 
  ---
 
-## Nuestra Camino
+## Nuestro Camino
 
 La metodología Scrum es un proceso para llevar a cabo un conjunto de tareas de forma regular con el objetivo principal de trabajar de manera colaborativa, es decir, para fomentar el trabajo en equipo.
 
