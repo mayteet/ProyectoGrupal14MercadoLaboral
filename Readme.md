@@ -67,7 +67,7 @@ En Scrum se van realizando entregas regulares y parciales del trabajo final, de 
 
 <img src = 'pipeline.png' ><p>
 
-
+ ---
 
 ## Nuestro Hallazgos
 <p>En el análisis de los datos obtenidos, se trató de identificar las necesidades de información de la reclutadora. Teniendo en cuenta que el objetivo es estar al pendiente de las tendencias del mercado en torno a los 3 perfiles laborales definidos al inicio de este trabajo (data analyst, data engineer y data scientist).
