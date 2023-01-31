@@ -1,0 +1,47 @@
+,herramienta
+0,sas
+1,apache spark
+2,bigml
+3,d3.js
+4,matlab
+5,excel
+6,ggplot2
+7,tableau
+8,jupyter
+9,matplotlib
+10,nltk
+11,scikit-learn
+12,tensorflow
+13,weka
+0,microsoft excel
+1,python
+2,r
+3,jupyter notebook
+4,apache spark
+5,sas
+6,microsoft power bi
+7,tableau
+8,knime
+0,python
+1,sql
+2,postgresql
+3,mongodb
+4,apachespark
+5,apache kafka
+6,amazon redshift
+7,snowflake
+8,amazon athena
+9,apache airflow
+10,big query
+11,tableau
+12,looker
+13,apache hive
+14,segment
+15,dbt
+16,redash
+17,fivetran
+18,power bi
+19,periscope
+20,prefect
+21,presto
+22,metabase

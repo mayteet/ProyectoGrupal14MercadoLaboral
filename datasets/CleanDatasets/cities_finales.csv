@@ -1,0 +1,249 @@
+pais;codigo_pais;continente;sub_region;latitud;longitud
+Afghanistan;AF;Asia;Southern Asia;36.68333;71.53333
+Åland Islands;AX;Europe;Northern Europe;40.54194;49.66073
+Albania;AL;Europe;Southern Europe;40.82492;19.84074
+Algeria;DZ;Africa;Northern Africa;27.87429;-0.29388
+American Samoa;AS;Oceania;Polynesia;47.77441;17.03293
+Andorra;AD;Europe;Southern Europe;42.50779;1.52109
+Angola;AO;Africa;Sub-Saharan Africa;-8.57848;13.66425
+Anguilla;AI;Americas;Latin America and the Caribbean;40.82492;19.84074
+Antarctica;AQ;Antarctica;Antarctica;-34.61032;-58.39766
+Antigua and Barbuda;AG;Americas;Latin America and the Caribbean;17.63333;-61.83333
+Argentina;AR;Americas;Latin America and the Caribbean;-34.61032;-58.39766
+Armenia;AM;Asia;Western Asia;40.33069;44.07233
+Aruba;AW;Americas;Latin America and the Caribbean;40.54194;49.66073
+Australia;AU;Oceania;Australia and New Zealand;-35.27767;149.11829
+Austria;AT;Europe;Western Europe;47.77441;17.03293
+Azerbaijan;AZ;Asia;Western Asia;40.54194;49.66073
+Bahamas;BS;Americas;Latin America and the Caribbean;25.728;-79.29721
+Bahrain;BH;Asia;Western Asia;26.21861;50.54778
+Bangladesh;BD;Asia;Southern Asia;22.13333;90.13333
+Barbados;BB;Americas;Latin America and the Caribbean;13.07067;-59.54637
+Belarus;BY;Europe;Eastern Europe;52.2038;24.7863
+Belgium;BE;Europe;Western Europe;50.85045;4.34878
+Belize;BZ;Americas;Latin America and the Caribbean;17.49952;-88.19756
+Benin;BJ;Africa;Sub-Saharan Africa;11.29845;2.43856
+Bermuda;BM;Americas;Northern America;4.58361;114.2312
+Bhutan;BT;Asia;Southern Asia;27.54918;90.7525
+Bolivia (Plurinational State of);BO;Americas;Latin America and the Caribbean;-10.8258;-65.3581
+Bonaire, Sint Eustatius and Saba;BQ;Americas;Latin America and the Caribbean;-9.98045;-66.84388
+Bosnia and Herzegovina;BA;Europe;Southern Europe;44.86995;18.81012
+Botswana;BW;Africa;Sub-Saharan Africa;-21.8327;28.72882
+Bouvet Island;BV;Americas;Latin America and the Caribbean;-21.8327;28.72882
+Brazil;BR;Americas;Latin America and the Caribbean;-9.98045;-66.84388
+British Indian Ocean Territory;IO;Africa;Sub-Saharan Africa;34.36857;41.98194
+Brunei Darussalam;BN;Asia;South-eastern Asia;4.58361;114.2312
+Bulgaria;BG;Europe;Eastern Europe;41.8383;23.48851
+Burkina Faso;BF;Africa;Sub-Saharan Africa;13.1691;-3.8899
+Burundi;BI;Africa;Sub-Saharan Africa;-3.0804;29.391
+Cabo Verde;CV;Africa;Sub-Saharan Africa;16.17611;-22.91722
+Cambodia;KH;Asia;South-eastern Asia;13.45531;102.99186
+Cameroon;CM;Africa;Sub-Saharan Africa;6.08303;11.4905
+Canada;CA;Americas;Northern America;51.30011;-114.03528
+Cayman Islands;KY;Americas;Latin America and the Caribbean;51.99374;70.94704
+Central African Republic;CF;Africa;Sub-Saharan Africa;7.88897;20.04875
+Chad;TD;Africa;Sub-Saharan Africa;13.64143;16.48941
+Chile;CL;Americas;Latin America and the Caribbean;-45.40303;-72.69184
+China;CN;Asia;Eastern Asia;30.51365;117.04723
+Christmas Island;CX;Oceania;Australia and New Zealand;35.10022;33.86155
+Cocos (Keeling) Islands;CC;Oceania;Australia and New Zealand;-5.85098;13.05364
+Colombia;CO;Americas;Latin America and the Caribbean;-1.56261;-73.25684
+Comoros;KM;Africa;Sub-Saharan Africa;-12.2925;44.49722
+Congo;CG;Africa;Sub-Saharan Africa;-4.20493;13.28608
+Congo, Democratic Republic of the;CD;Africa;Sub-Saharan Africa;-5.85098;13.05364
+Cook Islands;CK;Oceania;Polynesia;-45.40303;-72.69184
+Costa Rica;CR;Americas;Latin America and the Caribbean;10.01625;-84.21163
+Côte d'Ivoire;CI;Africa;Sub-Saharan Africa;5.30966;-4.01266
+Croatia;HR;Europe;Southern Europe;45.89861;16.84889
+Cuba;CU;Americas;Latin America and the Caribbean;22.80517;-82.58392
+Curaçao;CW;Americas;Latin America and the Caribbean;35.10022;33.86155
+Cyprus;CY;Asia;Western Asia;35.10022;33.86155
+Czechia;CZ;Europe;Eastern Europe;49.12184;14.07893
+Denmark;DK;Europe;Northern Europe;55.0708;14.91978
+Djibouti;DJ;Africa;Sub-Saharan Africa;11.15583;42.7125
+Dominica;DM;Americas;Latin America and the Caribbean;15.59297;-61.34901
+Dominican Republic;DO;Americas;Latin America and the Caribbean;18.45319;-70.7349
+Ecuador;EC;Americas;Latin America and the Caribbean;-3.13349;-79.26893
+Egypt;EG;Africa;Northern Africa;31.20176;29.91582
+El Salvador;SV;Americas;Latin America and the Caribbean;13.92139;-89.845
+Equatorial Guinea;GQ;Africa;Sub-Saharan Africa;-1.4068;5.63178
+Eritrea;ER;Africa;Sub-Saharan Africa;15.77792;38.45107
+Estonia;EE;Europe;Northern Europe;59.27644;25.48168
+Eswatini;SZ;Africa;Sub-Saharan Africa;-25.96667;31.13333
+Ethiopia;ET;Africa;Sub-Saharan Africa;9.02497;38.74689
+Falkland Islands (Malvinas);FK;Americas;Latin America and the Caribbean;7.3854;151.7392
+Faroe Islands;FO;Europe;Northern Europe;46.27874;6.72105
+Fiji;FJ;Oceania;Melanesia;-17.83333;178.25
+Finland;FI;Europe;Northern Europe;62.6;25.73333
+France;FR;Europe;Western Europe;46.27874;6.72105
+French Guiana;GF;Americas;Latin America and the Caribbean;6.80004;-1.08193
+French Polynesia;PF;Oceania;Polynesia;-6.22977;155.56598
+French Southern Territories;TF;Africa;Sub-Saharan Africa;8.98333;1.13333
+Gabon;GA;Africa;Sub-Saharan Africa;1.00019;9.58229
+Gambia;GM;Africa;Sub-Saharan Africa;13.47806;-16.68194
+Georgia;GE;Asia;Western Asia;41.65395;42.15163
+Germany;DE;Europe;Western Europe;47.8424;8.85384
+Ghana;GH;Africa;Sub-Saharan Africa;6.80004;-1.08193
+Gibraltar;GI;Europe;Southern Europe;13.47806;-16.68194
+Greece;GR;Europe;Southern Europe;38.08333;23.73333
+Greenland;GL;Americas;Northern America;13.47806;-16.68194
+Grenada;GD;Americas;Latin America and the Caribbean;12.48292;-61.45597
+Guadeloupe;GP;Americas;Latin America and the Caribbean;-1.4068;5.63178
+Guam;GU;Oceania;Micronesia;12.16583;-14.66167
+Guatemala;GT;Americas;Latin America and the Caribbean;15.56667;-89.81667
+Guernsey;GG;Europe;Northern Europe;6.80004;-1.08193
+Guinea;GN;Africa;Sub-Saharan Africa;10.33333;-14.16667
+Guinea-Bissau;GW;Africa;Sub-Saharan Africa;12.16583;-14.66167
+Guyana;GY;Americas;Latin America and the Caribbean;8.2;-59.78333
+Haiti;HT;Americas;Latin America and the Caribbean;19.63382;-73.0553
+Heard Island and McDonald Islands;HM;Oceania;Australia and New Zealand;15.63333;-87.31667
+Holy See;VA;Europe;Southern Europe;13.1943;-61.13904
+Honduras;HN;Americas;Latin America and the Caribbean;15.63333;-87.31667
+Hong Kong;HK;Asia;Eastern Asia;15.63333;-87.31667
+Hungary;HU;Europe;Eastern Europe;46.84025;19.45208
+Iceland;IS;Europe;Northern Europe;64.1;-22.01667
+India;IN;Asia;Southern Asia;11.7;92.71667
+Indonesia;ID;Asia;South-eastern Asia;5.54167;95.33333
+Iran (Islamic Republic of);IR;Asia;Southern Asia;35.72318;50.97865
+Iraq;IQ;Asia;Western Asia;34.36857;41.98194
+Ireland;IE;Europe;Northern Europe;53.29639;-8.74306
+Isle of Man;IM;Europe;Northern Europe;11.7;92.71667
+Israel;IL;Asia;Western Asia;32.00191;34.82977
+Italy;IT;Europe;Southern Europe;42.22421;14.01001
+Jamaica;JM;Americas;Latin America and the Caribbean;18.21027;-77.39851
+Japan;JP;Asia;Eastern Asia;35.17234;136.69478
+Jersey;JE;Europe;Northern Europe;18.21027;-77.39851
+Jordan;JO;Asia;Western Asia;32.33326;35.75279
+Kazakhstan;KZ;Asia;Central Asia;51.99374;70.94704
+Kenya;KE;Africa;Sub-Saharan Africa;0.46667;35.96667
+Kiribati;KI;Oceania;Micronesia;1.85293;172.94369
+Korea (Democratic People's Republic of);KP;Asia;Eastern Asia;41.06333;126.72556
+Korea, Republic of;KR;Asia;Eastern Asia;35.19724;128.99134
+Kuwait;KW;Asia;Western Asia;29.07694;48.08389
+Kyrgyzstan;KG;Asia;Central Asia;39.94319;71.34184
+Lao People's Democratic Republic;LA;Asia;South-eastern Asia;14.81071;106.83184
+Latvia;LV;Europe;Northern Europe;56.13274;27.00682
+Lebanon;LB;Asia;Western Asia;34.53333;36.16667
+Lesotho;LS;Africa;Sub-Saharan Africa;-29.14719;27.74895
+Liberia;LR;Africa;Sub-Saharan Africa;6.87064;-10.8211
+Libya;LY;Africa;Northern Africa;30.75545;20.22625
+Liechtenstein;LI;Europe;Western Europe;47.06665;9.50251
+Lithuania;LT;Europe;Northern Europe;54.39635;24.04142
+Luxembourg;LU;Europe;Western Europe;49.56727;5.9073
+Macao;MO;Asia;Eastern Asia;20.5177;-13.04857
+Madagascar;MG;Africa;Sub-Saharan Africa;-18.81667;49.06667
+Malawi;MW;Africa;Sub-Saharan Africa;-13.99329;34.51566
+Malaysia;MY;Asia;South-eastern Asia;2.0441;102.6527
+Maldives;MV;Asia;Southern Asia;-0.6;73.08333
+Mali;ML;Africa;Sub-Saharan Africa;12.65;-8
+Malta;MT;Europe;Southern Europe;35.88972;14.4425
+Marshall Islands;MH;Oceania;Micronesia;42.02639;21.56194
+Martinique;MQ;Americas;Latin America and the Caribbean;20.5177;-13.04857
+Mauritania;MR;Africa;Sub-Saharan Africa;20.5177;-13.04857
+Mauritius;MU;Africa;Sub-Saharan Africa;-10.38803;56.61795
+Mayotte;YT;Africa;Sub-Saharan Africa;-32.70747;26.29564
+Mexico;MX;Americas;Latin America and the Caribbean;21.88333;-102.3
+Micronesia (Federated States of);FM;Oceania;Micronesia;7.3854;151.7392
+Moldova, Republic of;MD;Europe;Eastern Europe;46.87839;29.23483
+Monaco;MC;Europe;Western Europe;46.87839;29.23483
+Mongolia;MN;Asia;Eastern Asia;47.475;101.45417
+Montenegro;ME;Europe;Southern Europe;42.73389;19.79194
+Montserrat;MS;Americas;Latin America and the Caribbean;35.88972;14.4425
+Morocco;MA;Africa;Northern Africa;30.42018;-9.59815
+Mozambique;MZ;Africa;Sub-Saharan Africa;-13.46665;39.70317
+Myanmar;MM;Asia;South-eastern Asia;16.29415;95.39742
+Nauru;NR;Oceania;Micronesia;-0.52545;166.91247
+Nepal;NP;Asia;Southern Asia;27.63245;85.52192
+Netherlands;NL;Europe;Western Europe;52.79;6.71806
+New Caledonia;NC;Oceania;Melanesia;16.97333;7.99111
+New Zealand;NZ;Oceania;Australia and New Zealand;-36.84853;174.76349
+Nicaragua;NI;Americas;Latin America and the Caribbean;12.47224;-85.6586
+Niger;NE;Africa;Sub-Saharan Africa;16.97333;7.99111
+Nigeria;NG;Africa;Sub-Saharan Africa;5.10658;7.36667
+Niue;NU;Oceania;Polynesia;-36.84853;174.76349
+Norfolk Island;NF;Oceania;Australia and New Zealand;5.10658;7.36667
+North Macedonia;MK;Europe;Southern Europe;42.02639;21.56194
+Northern Mariana Islands;MP;Oceania;Micronesia;20.5177;-13.04857
+Norway;NO;Europe;Northern Europe;60.08926;10.86998
+Oman;OM;Asia;Western Asia;22.37934;57.52718
+Pakistan;PK;Asia;Southern Asia;32.97465;74.07846
+Palau;PW;Oceania;Micronesia;7.44613;134.47678
+Palestine, State of;PS;Asia;Western Asia;37.72142;-25.5117
+Panama;PA;Americas;Latin America and the Caribbean;9.30091;-82.4018
+Papua New Guinea;PG;Oceania;Melanesia;-6.22977;155.56598
+Paraguay;PY;Americas;Latin America and the Caribbean;-19.91667;-60.78333
+Peru;PE;Americas;Latin America and the Caribbean;-5.75611;-78.44111
+Philippines;PH;Asia;South-eastern Asia;18.46141944;120.9021028
+Pitcairn;PN;Oceania;Polynesia;37.72142;-25.5117
+Poland;PL;Europe;Eastern Europe;52.3453;18.66663
+Portugal;PT;Europe;Southern Europe;37.72142;-25.5117
+Puerto Rico;PR;Americas;Latin America and the Caribbean;37.72142;-25.5117
+Qatar;QA;Asia;Western Asia;25.82882;51.24567
+Réunion;RE;Africa;Sub-Saharan Africa;46.27406;23.06339
+Romania;RO;Europe;Eastern Europe;46.27406;23.06339
+Russian Federation;RU;Europe;Eastern Europe;52.4926;82.7822
+Rwanda;RW;Africa;Sub-Saharan Africa;-2.1597;30.5427
+Saint Barthélemy;BL;Americas;Latin America and the Caribbean;4.58361;114.2312
+Saint Helena, Ascension and Tristan da Cunha;SH;Africa;Sub-Saharan Africa;45.88601;13.90946
+Saint Kitts and Nevis;KN;Americas;Latin America and the Caribbean;17.37956;-62.75318
+Saint Lucia;LC;Americas;Latin America and the Caribbean;13.94619;-61.03879
+Saint Martin (French part);MF;Americas;Latin America and the Caribbean;-18.81667;49.06667
+Saint Pierre and Miquelon;PM;Americas;Northern America;37.72142;-25.5117
+Saint Vincent and the Grenadines;VC;Americas;Latin America and the Caribbean;13.1943;-61.13904
+Samoa;WS;Oceania;Polynesia;-13.81163;-171.94063
+San Marino;SM;Europe;Southern Europe;43.94593;12.4185
+Sao Tome and Principe;ST;Africa;Sub-Saharan Africa;1.63943;7.41951
+Saudi Arabia;SA;Asia;Western Asia;18.21639;42.50528
+Senegal;SN;Africa;Sub-Saharan Africa;14.6937;-17.44406
+Serbia;RS;Europe;Southern Europe;44.30694;20.56
+Seychelles;SC;Africa;Sub-Saharan Africa;-4.71667;55.48333
+Sierra Leone;SL;Africa;Sub-Saharan Africa;8.34959;-11.33059
+Singapore;SG;Asia;South-eastern Asia;1.28967;103.85007
+Sint Maarten (Dutch part);SX;Americas;Latin America and the Caribbean;37.07279;40.65199
+Slovakia;SK;Europe;Eastern Europe;48.73946;19.15349
+Slovenia;SI;Europe;Southern Europe;45.88601;13.90946
+Solomon Islands;SB;Oceania;Melanesia;-9.10306;160.15056
+Somalia;SO;Africa;Sub-Saharan Africa;4.01897;44.51111
+South Africa;ZA;Africa;Sub-Saharan Africa;-32.70747;26.29564
+South Georgia and the South Sandwich Islands;GS;Americas;Latin America and the Caribbean;15.56667;-89.81667
+South Sudan;SS;Africa;Sub-Saharan Africa;6.5525;30.49806
+Spain;ES;Europe;Southern Europe;37.14245;-2.77808
+Sri Lanka;LK;Asia;Southern Asia;7.86;80.65167
+Sudan;SD;Africa;Northern Africa;14.75264;33.29836
+Suriname;SR;Americas;Latin America and the Caribbean;5.05594;-54.98043
+Svalbard and Jan Mayen;SJ;Europe;Northern Europe;48.73946;19.15349
+Sweden;SE;Europe;Northern Europe;56.23333;15.11667
+Switzerland;CH;Europe;Western Europe;47.39254;8.04422
+Syrian Arab Republic;SY;Asia;Western Asia;37.07279;40.65199
+Taiwan, Province of China;TW;Asia;Eastern Asia;23.95361;120.49083
+Tajikistan;TJ;Asia;Central Asia;38.86776;69.96642
+Tanzania, United Republic of;TZ;Africa;Sub-Saharan Africa;-3.36667;36.68333
+Thailand;TH;Asia;South-eastern Asia;15.85851;104.62883
+Timor-Leste;TL;Asia;South-eastern Asia;-8.72806;125.56639
+Togo;TG;Africa;Sub-Saharan Africa;8.98333;1.13333
+Tokelau;TK;Oceania;Polynesia;-8.72806;125.56639
+Tonga;TO;Oceania;Polynesia;-19.81468;-174.35423
+Trinidad and Tobago;TT;Americas;Latin America and the Caribbean;10.63737;-61.28228
+Tunisia;TN;Africa;Northern Africa;36.86012;10.19337
+Turkey;TR;Asia;Western Asia;37.00167;35.32889
+Turkmenistan;TM;Asia;Central Asia;38.05415;58.19721
+Turks and Caicos Islands;TC;Americas;Latin America and the Caribbean;13.64143;16.48941
+Tuvalu;TV;Oceania;Polynesia;-8.52074;179.1968
+Uganda;UG;Africa;Sub-Saharan Africa;-0.12855;31.62527
+Ukraine;UA;Europe;Eastern Europe;45.10759;35.10139
+United Arab Emirates;AE;Asia;Western Asia;24.4511;54.3969
+United Kingdom of Great Britain and Northern Ireland;GB;Europe;Northern Europe;51.48688;0.10747
+United States of America;US;Americas;Northern America;31.57184;-85.25049
+United States Minor Outlying Islands;UM;Oceania;Micronesia;31.57184;-85.25049
+Uruguay;UY;Americas;Latin America and the Caribbean;-30.4;-56.46667
+Uzbekistan;UZ;Asia;Central Asia;40.78206;72.34424
+Vanuatu;VU;Oceania;Melanesia;-16.09992;167.41636
+Venezuela (Bolivarian Republic of);VE;Americas;Latin America and the Caribbean;2.7188;-67.56046
+Viet Nam;VN;Asia;South-eastern Asia;10.7;105.11667
+Virgin Islands (British);VG;Americas;Latin America and the Caribbean;10.7;105.11667
+Virgin Islands (U.S.);VI;Americas;Latin America and the Caribbean;10.7;105.11667
+Wallis and Futuna;WF;Oceania;Polynesia;-13.81163;-171.94063
+Western Sahara;EH;Africa;Northern Africa;15.77792;38.45107
+Yemen;YE;Asia;Western Asia;12.77944;45.03667
+Zambia;ZM;Africa;Sub-Saharan Africa;-14.65685;28.07057
+Zimbabwe;ZW;Africa;Sub-Saharan Africa;-20.15;28.58333
