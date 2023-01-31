@@ -43,7 +43,7 @@ La demanda de habilidades en Big Data está aumentando en todo el mundo, especia
    Esta herramienta de la que hablo es un sitio web, en el cual se observará 2 áreas:
    - La primera: Los insights (trabajos más demandados, herramientas más pedidas, variaciones de sueldo por puesto o a través del tiempo,etc)
 
-   - La segunda: Un filtro en el que el recruiter podrá saber a que perfil pertenece el postulante en base a las herramientas tecnológicas que maneja, o viceversa, si sabe qué herramientas necesita buscar, saber qué puesto de trabajo está buscando publicar.
+   - La segunda: Un filtro en el que el recruiter podrá saber a que perfil pertenece el postulante en base a las herramientas tecnológicas que maneja.
    Este filtro será posible gracias a un modelo de machine learning de clasificación no supervisado.
 
 
