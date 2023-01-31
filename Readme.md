@@ -70,9 +70,9 @@ En Scrum se van realizando entregas regulares y parciales del trabajo final, de 
 
 
 ## Nuestro Hallazgos
-En el análisis de interés del mercado laborales respecto a los perfiles definidos (analyst, engineer, scientist), se definieron tres líneas claramente marcadas. Estos fueron: 1) Conocer el estado de los sueldos, 2) Identificar las ofertas laborales a nivel mundial y su comparación con Sudamérica, y 3) Requerimientos de las herramientas por perfil que actualmente el mercado está definiendo. 
+En el análisis de los datos obtenidos, se trató de identificar las necesidades de información de la reclutadora. Teniendo en cuenta que el objetivo es estar al pendiente de las tendencias del mercado en torno a los 3 perfiles laborales definidos (analyst, engineer, scientist), se construyeron métricas que van alineados a tres líneas claramente marcadas. Estas fueron: 1) Conocer el estado de los sueldos y tendencias en el mercado, 2) Identificar las ofertas laborales a nivel mundial y su comparación con Sudamérica, e 3) Identificar los requerimientos de las herramientas por perfil que actualmente el mercado está definiendo. 
 
-En la siguiente imagen se muestra cómo es el estado del mercado de sueldos. Se hizo una filtración por años, trimestre, y por región de análisis. Dentro del KPI identificado está la variación de sueldo porcentual por trimestre.
+En la siguiente imagen se muestra cómo es el estado del mercado de sueldos. El KPI definido fue la _variación de los sueldos de forma trimestral por año_
 
  <img src = 'Estado mercado sueldos.png' ><p>
  <img src = 'Estado mercado ofertas laborale.png' ><p>
