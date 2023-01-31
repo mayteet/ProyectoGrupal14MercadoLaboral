@@ -59,7 +59,7 @@ Con este método de trabajo lo que se pretende es alcanzar el mejor resultado de
 
 En Scrum se van realizando entregas regulares y parciales del trabajo final, de manera prioritaria y en función del beneficio que aportan dichas entregas a los receptores del proyecto. Por este motivo, es una metodología especialmente indicada para proyectos complejos, con requisitos cambiantes y en los que la innovación y la flexibilidad son protagonistas.
 
- probando
+
 
 --->--->--->--->--->--->--->--->--->--->
 
@@ -71,9 +71,14 @@ En Scrum se van realizando entregas regulares y parciales del trabajo final, de 
 
 ## Nuestro Hallazgos
 
+métricas
+ KPIs
+ 
+ ## Modelo Machine learning
+ 
+  ## Video
+ 
 
-
-
-
+  ## Link de deployment
 
  
