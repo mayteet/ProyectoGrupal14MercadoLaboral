@@ -70,12 +70,22 @@ En Scrum se van realizando entregas regulares y parciales del trabajo final, de 
 
 
 ## Nuestro Hallazgos
-En el análisis de los datos obtenidos, se trató de identificar las necesidades de información de la reclutadora. Teniendo en cuenta que el objetivo es estar al pendiente de las tendencias del mercado en torno a los 3 perfiles laborales definidos (analyst, engineer, scientist), se construyeron métricas que van alineados a tres líneas claramente marcadas. Estas fueron: 1) Conocer el estado de los sueldos y tendencias en el mercado, 2) Identificar las ofertas laborales a nivel mundial y su comparación con Sudamérica, e 3) Identificar los requerimientos de las herramientas por perfil que actualmente el mercado está definiendo. 
+En el análisis de los datos obtenidos, se trató de identificar las necesidades de información de la reclutadora. Teniendo en cuenta que el objetivo es estar al pendiente de las tendencias del mercado en torno a los 3 perfiles laborales definidos (analyst, engineer, scientist), se construyeron métricas que van alineados a tres objetivos específicos. Estas fueron: 1) Conocer el estado de los sueldos y tendencias en el mercado, 2) Identificar las ofertas laborales a nivel mundial y su comparación con Sudamérica, e 3) Identificar los requerimientos de las herramientas por perfil que actualmente el mercado está definiendo. 
 
-En la siguiente imagen se muestra cómo es el estado del mercado de sueldos. El KPI definido fue la _variación de los sueldos de forma trimestral por año_
+En la siguiente imagen se muestra cómo es el estado del mercado de sueldos. El KPI definido fue la _variación de los sueldos de forma trimestral por año_ en las cuales se observa si ha habido un aumento o disminución de los sueldos en las ofertas laborales de forma trimestral. Está clasificados por los tres perfiles para tener una mejor idea comparativa entre ellos. Asimismo, se ha generado un segmentador temporal por año y trimestre, y otro segmentador geográfico por región. Estas regiones están definidas como los continentes del mundo. Asimismo, en la parte izquierda inferior se observa un mapa que muestra cómo es el sueldo promedio ubicado geográficamente. En la parte derecha inferior se muestra un gráfico de líneas de la variación de los sueldos a lo largo de finales del 2018 - 2020, lo cual permite identificar la tendencia de los sueldos a lo largo de los años.
+ 
+ Estas métricas nos muestran insights muy interesantes. El mapa de distribución de sueldos muestra según el tamaño de las burbujas que Europa destaca por tener ofertas salariales más elevadas, y Asia, por tener los de menor valor. Sudamérica muestra un valor promedio. Por otro lado, el gráfico de líneas muestra las tendencias en los sueldos a lo largo del tiempo. Se observa una diferencia notoria entre los analyst, enginer y scientist hasta antes del marzo 2019, destacandose los engineer con los ingresos más altos. Sin embargo, después de marzo 2019 esta diferencia salarial ya no es tan notoria, y es más, se ha llegado a un punto de equilibrio entre los tres para un valor de salario 74' 000 USD anuales. 
 
  <img src = 'Estado mercado sueldos.png' ><p>
+  
+  Otra de las métricas de interés identificadas es el estado de las ofertas laborales por empresa, y puestos de trabajo. Eso se muestra en la siguiente imagen, en la que se muestran las empresas que han compartido mayores ofertas laborales alineadas a los perfiles definidos. Asimismo, en el gráfico horizontal de barras del lado derecho, se muestra la demanda de puestos de trabajo por perfil, y por continente.
+  
+  Estos gráficos también nos muestran insights interesantes. se observa que la empresa Citi, Amazon, Hays, y Accenture destacan como las empresas con mayores ofertas laborales publicadas en las plataformas de empleo analizadas (LinkedIn, Glassdoor, GetOnBoard). Estas son principales potenciales de usuarios de los servicios de la reclutadora, por lo que es importante tenerlos bien identificados. Asimismo, identificar los perfiles más requeridos por empresa es de mucho interés. Se observa que los data analyst tienen mayor demanda, seguidos por la scientists, y finalmente los engineers. Latinoamérica, comparado con otros países, muestra la misma proporción de demanda de analyst, scientist e engineer, pero, la cantidad es mucho menor comparada con Europa y Estados Unidos.
+  
  <img src = 'Estado mercado ofertas laborale.png' ><p>
+  
+  
+  
  <img src = 'Requerimientos herramientas por perfil.png' ><p>
 
 
