@@ -70,7 +70,7 @@ En Scrum se van realizando entregas regulares y parciales del trabajo final, de 
 
 
 ## Nuestro Hallazgos
-En el análisis de los datos obtenidos, se trató de identificar las necesidades de información de la reclutadora. Teniendo en cuenta que el objetivo es estar al pendiente de las tendencias del mercado en torno a los 3 perfiles laborales definidos (analyst, engineer, scientist), se construyeron métricas que van alineados a tres objetivos específicos. Estas fueron: 1) Conocer el estado de los sueldos y tendencias en el mercado, 2) Identificar las ofertas laborales a nivel mundial y su comparación con Sudamérica, e 3) Identificar los requerimientos de las herramientas por perfil que actualmente el mercado está definiendo. 
+En el análisis de los datos obtenidos, se trató de identificar las necesidades de información de la reclutadora. Teniendo en cuenta que el objetivo es estar al pendiente de las tendencias del mercado en torno a los 3 perfiles laborales definidos al inicio de este trabajo (analyst, engineer, scientist), se construyeron métricas que van alineados a tres objetivos específicos. Estas fueron: 1) Conocer el estado de los sueldos y tendencias en el mercado, 2) Identificar las ofertas laborales a nivel mundial y su comparación con Sudamérica, e 3) Identificar los requerimientos de las herramientas por perfil que actualmente el mercado está definiendo. 
 
 En la siguiente imagen se muestra cómo es el estado del mercado de sueldos. El KPI definido fue la _variación de los sueldos de forma trimestral por año_ en las cuales se observa si ha habido un aumento o disminución de los sueldos en las ofertas laborales de forma trimestral. Está clasificados por los tres perfiles para tener una mejor idea comparativa entre ellos. Asimismo, se ha generado un segmentador temporal por año y trimestre, y otro segmentador geográfico por región. Estas regiones están definidas como los continentes del mundo. Asimismo, en la parte izquierda inferior se observa un mapa que muestra cómo es el sueldo promedio ubicado geográficamente. En la parte derecha inferior se muestra un gráfico de líneas de la variación de los sueldos a lo largo de finales del 2018 - 2020, lo cual permite identificar la tendencia de los sueldos a lo largo de los años.
  
@@ -85,13 +85,11 @@ En la siguiente imagen se muestra cómo es el estado del mercado de sueldos. El 
  <img src = 'Estado mercado ofertas laborale.png' ><p>
   
   
+  Finalmente, se analizó la demanda de herramientas por perfil. Esta fue una de las principales necesidades de información requeridas, pues una reclutadora tiene la difícil tarea de alinear los requerimientos de una empresa con el perfil de un postulante. Una de las formas de realizar esa alineación es a través del conocimiento del requerimiento del mercado por perfil. Uno de los KPI's construidos es la diversidad de herramientas que piden las empresas. Este se contruyó identificando cuáles fueron las herramientas que representaron el 80% de la demanda, y se dividió entre el total de herramientas identificadas por perfil. Este KPI nos mostró que los perfiles de data science tienen que tener un portafolio más diverso de herramientas con un 28% del total, entre los que se incluye: python, r, sql, tensorflow, sas, excel, tableau; mientras que los data analyst requieren una menor diversidad de herramientas con un 16 %, destacándose: sql, excel, python y tableau. Asimismo, se observa que dentro de las herramientas que se piden para un data scientist esta tableau, y excel, y estas son herramientas que están mejor alineadas para un data anlyst, demostrándose una vecesidad para definir de forma más adecuada los requerimientos en las ofertas laborales. 
   
  <img src = 'Requerimientos herramientas por perfil.png' ><p>
 
 
-métricas
- KPIs
- 
  ## Modelo Machine learning
  
   ## Video
