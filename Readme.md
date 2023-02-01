@@ -112,6 +112,8 @@ En Scrum se van realizando entregas regulares y parciales del trabajo final, de 
   
 Los invito a ingresar al archivo [Modelo de clasificacion final.ipynb](https://github.com/mayteet/ProyectoGrupal14MercadoLaboral/blob/main/Modelo%20de%20clasificacion%20final.ipynb) para ver en detalle la creación del modelo.
   
+  
+  <p align="center"> <img src = 'source\kmeans.png' ><p>
 <p>
  
  
