@@ -83,7 +83,7 @@ En Scrum se van realizando entregas regulares y parciales del trabajo final, de 
 <p> Estas métricas nos muestran insights muy interesantes. El mapa de distribución de sueldos muestra según el tamaño de las burbujas que Europa destaca por tener ofertas salariales más elevadas, y Asia, por tener los de menor valor. Sudamérica muestra un valor promedio. Por otro lado, el gráfico de líneas muestra las tendencias en los sueldos a lo largo del tiempo. Se observa una diferencia notoria entre los analyst, enginer y scientist hasta antes del marzo 2019, destacandose los engineer con los ingresos más altos. Sin embargo, después de marzo 2019 esta diferencia salarial ya no es tan notoria, y es más, se ha llegado a un punto de equilibrio entre los tres para un valor de salario 74' 000 USD anuales. <p> 
  
 
- <img src = 'source\Estado mercado sueldos.png' ><p>
+ <p align="center"> <img src = 'source\Estado mercado sueldos.png' ><p>
   
  ### **- Estado del mercado de ofertas laborales**
   
@@ -92,14 +92,14 @@ En Scrum se van realizando entregas regulares y parciales del trabajo final, de 
   Estos gráficos también nos muestran insights interesantes. se observa que la empresa Citi, Amazon, Hays, y Accenture destacan como las empresas con mayores ofertas laborales publicadas en las plataformas de empleo analizadas (LinkedIn, Glassdoor, GetOnBoard). Estas son potenciales usuarios principales de los servicios de la reclutadora, por lo que es importante tenerlos bien identificados. Asimismo, identificar los perfiles más requeridos por empresa es de mucho interés. Se observa que los data analyst tienen mayor demanda, seguidos por la scientists, y finalmente los engineers. Latinoamérica, comparado con otros países, muestra la misma proporción de demanda de analyst, scientist e engineer, pero, la cantidad es mucho menor comparada con Europa y Estados Unidos. <p>
   
   
- <img src = 'source\Estado mercado ofertas laborale.png' ><p>
+ <p align="center"> <img src = 'source\Estado mercado ofertas laborale.png' ><p>
   
    ### **- Requerimientos de herramientas por perfil**
   
 <p>  Finalmente, se analizó la demanda de herramientas por perfil. Esta fue una de las principales necesidades de información requeridas, pues una reclutadora tiene la difícil tarea de alinear los requerimientos de una empresa con el perfil de un postulante. Una de las formas de realizar esa alineación es a través del conocimiento del requerimiento del mercado por perfil. Uno de los KPI's construidos es la diversidad de herramientas que piden las empresas. Este se contruyó identificando cuáles fueron las herramientas que representaron el 80% de la demanda, y se dividió entre el total de herramientas identificadas por perfil. Este KPI nos mostró que los perfiles de data science tienen que tener un portafolio más diverso de herramientas con un 28% del total, entre los que se incluye: python, r, sql, tensorflow, sas, excel, tableau; mientras que los data analyst requieren una menor diversidad de herramientas con un 16 %, destacándose: sql, excel, python y tableau. Asimismo, se observa que dentro de las herramientas que se piden para un data scientist esta tableau, y excel, y estas son herramientas que están mejor alineadas para un data anlyst, demostrándose una necesidad para definir de forma más adecuada los requerimientos en las ofertas laborales. <p>
   
   
- <img src = 'source\Requerimientos herramientas por perfil.png' ><p>
+ <p align="center"> <img src = 'source\Requerimientos herramientas por perfil.png' ><p>
 
 
  ## Modelo Machine learning
