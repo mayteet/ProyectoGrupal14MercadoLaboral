@@ -66,8 +66,7 @@ En Scrum se van realizando entregas regulares y parciales del trabajo final, de 
 
 ## **Pipeline**
 
-<img src = 'source\pipeline.png' ><p>
-
+<p align="center"> <img src = 'source\pipeline.png' /> </p>
  ---
 
 ## Nuestro Hallazgos
