@@ -118,9 +118,8 @@ Los invito a ingresar al archivo [Modelo de clasificacion final.ipynb](https://g
  
  
 
-
- 
-
   ## Link de deployment
+  
+  https://henry-test-streamlit-app-zhi7kb23aq-ue.a.run.app/
 
  
