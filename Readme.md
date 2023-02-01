@@ -30,11 +30,11 @@ La demanda de habilidades en Big Data está aumentando en todo el mundo, especia
 #### *Ejemplo:*
 #### - Aquí observamos que a para un puesto de Ingeniero de datos, piden    saber herramientas de visualización propias del perfil de Data Analytics. 
 
---->--->--->--->--->--->--->--->--->--->
+
 <p align="center"> <img src = 'source\ejemplo-anuncio.png'  /> </p>
 
  
- --->--->--->--->--->--->--->--->--->--->
+
  
  ---
   **Solución:**
