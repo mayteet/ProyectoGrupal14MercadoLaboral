@@ -118,7 +118,7 @@ Los invito a ingresar al archivo [Modelo de clasificacion final.ipynb](https://g
  
  
 
-  ## Video
+
  
 
   ## Link de deployment
