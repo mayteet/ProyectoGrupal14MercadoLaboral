@@ -96,14 +96,26 @@ En Scrum se van realizando entregas regulares y parciales del trabajo final, de 
   
    ### **- Requerimientos de herramientas por perfil**
   
-<p>  Finalmente, se analizó la demanda de herramientas por perfil. Esta fue una de las principales necesidades de información requeridas, pues una reclutadora tiene la difícil tarea de alinear los requerimientos de una empresa con el perfil de un postulante. Una de las formas de realizar esa alineación es a través del conocimiento del requerimiento del mercado por perfil. Uno de los KPI's construidos es la diversidad de herramientas que piden las empresas. Este se contruyó identificando cuáles fueron las herramientas que representaron el 80% de la demanda, y se dividió entre el total de herramientas identificadas por perfil. Este KPI nos mostró que los perfiles de data science tienen que tener un portafolio más diverso de herramientas con un 28% del total, entre los que se incluye: python, r, sql, tensorflow, sas, excel, tableau; mientras que los data analyst requieren una menor diversidad de herramientas con un 16 %, destacándose: sql, excel, python y tableau. Asimismo, se observa que dentro de las herramientas que se piden para un data scientist esta tableau, y excel, y estas son herramientas que están mejor alineadas para un data anlyst, demostrándose una necesidad para definir de forma más adecuada los requerimientos en las ofertas laborales. <p>
+<p>  Analizar la demanda de herramientas por perfil. Esta fue una de las principales necesidades de información requeridas, pues una reclutadora tiene la difícil tarea de alinear los requerimientos de una empresa con el perfil de un postulante. Una de las formas de realizar esa alineación es a través del conocimiento del requerimiento del mercado por perfil. Uno de los KPI's construidos es la diversidad de herramientas que piden las empresas. Este se contruyó identificando cuáles fueron las herramientas que representaron el 80% de la demanda, y se dividió entre el total de herramientas identificadas por perfil. Este KPI nos mostró que los perfiles de data science tienen que tener un portafolio más diverso de herramientas con un 28% del total, entre los que se incluye: python, r, sql, tensorflow, sas, excel, tableau; mientras que los data analyst requieren una menor diversidad de herramientas con un 16 %, destacándose: sql, excel, python y tableau. Asimismo, se observa que dentro de las herramientas que se piden para un data scientist esta tableau, y excel, y estas son herramientas que están mejor alineadas para un data anlyst, demostrándose una necesidad para definir de forma más adecuada los requerimientos en las ofertas laborales. <p>
   
   
  <p align="center"> <img src = 'source\Requerimientos herramientas por perfil.png' ><p>
 
 
  ## Modelo Machine learning
+ <p> Como mencionamos anteriormente, parte de nuestra solución es brindar una correcta descripción sobre las tecnologías que utiliza un Cientifico de Datos. Para esto, durante el estudio de nuestra carrera nos encontramos capacitados para utilizar ciertas herramientas que puedan mejorar procesos y agilizar su funcionamiento.
+  Estas herramientras nos describen en parte a nuestras ramas de la cienca de datos, así como un Data Analyst conoce sobre visualización y representación de los datos, también conoce correctamente el uso de Microsoft Excel, Power BI, Tableau, etc. entre otras. Así mismo para el área del Data Engineer el uso de SQL por ejemplo y también Data Science utilizando ciertas librerías en Python como el algoritmo k-Nearest Neighbor para un modelo de entrenamiento clasificado. 
+  Dicho esto, se utilizó un modelo de Clasificación sin supervisión K-Means Clustering para clasificar las ramas de la cienca de datos. El modelo está entrenado de acuerdo a los stacks tecnológicos, herramientas solicitadas y en las necesidades de puestos laborales.
+  
+  ¿Porqué K-Means Clustering?
+   Hay diferentes modelos de clasificación no supervisada pero para nuestro objetivo, necesitamos agrupar de manera eficiente las tecnologías. Para esto, se eligió K-Means Clustering ya que es uno de los algoritmos de agrupamiento más populares que divide los datos en "K grupos" basados en la similitud de sus características.
+  
+Los invito a ingresar al archivo [Modelo de clasificacion final.ipynb](https://github.com/mayteet/ProyectoGrupal14MercadoLaboral/blob/main/Modelo%20de%20clasificacion%20final.ipynb) para ver en detalle la creación del modelo.
+  
+<p>
  
+ 
+
   ## Video
  
 
