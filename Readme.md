@@ -2,7 +2,7 @@
 
 ## Proyecto Grupal
 
-Integrantes: Melissa Contreras, Carolina Sosa, Sebastian Ezequiel, Luz Estrada y Facundo Lopez.
+Integrantes: Melissa Contreras, Carolina Sosa, Sebastian Ezequiel, Luz Estrada y Facundo López.
 
 ![](https://www.infoposiciones.net/wp-content/uploads/mercado-trabajo-Large-1.jpg)
 
